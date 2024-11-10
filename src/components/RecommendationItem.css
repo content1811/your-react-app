@@ -1,0 +1,38 @@
+/* src/components/RecommendationItem.css */
+.recommendation-item {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .item-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .item-info {
+    margin-top: 10px;
+  }
+  
+  .item-price {
+    color: #ff6b6b;
+    font-weight: bold;
+  }
+  
+  .add-to-cart-btn {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .add-to-cart-btn:hover {
+    background-color: #ff5252;
+  }
+  
